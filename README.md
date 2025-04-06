@@ -1,4 +1,4 @@
-< img align='right' src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png' width='255'>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="255">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO!+IT'S+PSYCH+&color=092e2b&background=&vCenter=true&font="Oswald")](https://git.io/typing-svg)
 
