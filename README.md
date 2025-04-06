@@ -1,6 +1,6 @@
 <img align="right" src="./1.gif" width="255">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO!+IT'S+PSYCH+&color=092e2b&background=&vCenter=true&font="Oswald")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO!+IT'S+PSYCH+&color=b5f602&background=&vCenter=true&font="Oswald")](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p5ych2022&show_icons=true&bg_color=b5f602&title_color=092e2b&center=true&text_color=092e2b&icon_color=092e2b&font="Oswald")
 
